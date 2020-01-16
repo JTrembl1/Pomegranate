@@ -12,7 +12,7 @@ Pomegranate is a graybox, Inversion of Control based application framework. It i
 
 By wrapping the key elements of your application, you are able to consistently generate reusable components for future projects.
 
-Steve Jobs once spoke of Objective-C, and a day when developers wouldn't focus on writing a network stack, or a database connection. They would simply open up their toolbox, with these items, and just connect the scaffolding that enables their business application to work. Pomegranate is a tools that makes that happen.
+Steve Jobs once spoke of Objective-C, and a day when developers wouldn't focus on writing a network stack, or a database connection. They would simply open up their toolbox, with these items, and just connect the scaffolding that enables their business application to work. Pomegranate is a tool that makes this happen.
 
 ***
 [![NPM Version][npm-image]][npm-url]
